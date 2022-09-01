@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GD3</string>
+    <string name="textview">TextView</string>
+    <string name="Warna">warna</string>
+</resources>
